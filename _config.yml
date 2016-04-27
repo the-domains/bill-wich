@@ -1,0 +1,28 @@
+name: Bill Wich
+favicon: null
+layout_spectrum: 0.38681822759099305
+typography_spectrum: 0.2354504275135696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.14578988356515765
+  lightness: 0.5227227066643536
+  saturation: 0.6877854303456843
+  rhythmicContrast: 0.7208990284707397
+purpose: []
